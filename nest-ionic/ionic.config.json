@@ -1,0 +1,7 @@
+{
+  "name": "nest-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
